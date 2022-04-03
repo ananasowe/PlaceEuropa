@@ -6,8 +6,8 @@
 // @author       Ananas (original code from other subreddits, modified)
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://raw.githubusercontent.com/nowe-konto/PlaceEuropa/main/resources/logo.png
-// @updateURL    https://github.com/mp14O4/place-overlay/raw/main/src/scripts/overlay.js
-// @downloadURL  https://github.com/mp14O4/place-overlay/raw/main/src/scripts/overlay.js
+// @updateURL    https://raw.githubusercontent.com/nowe-konto/PlaceEuropa/main/src/PlaceEuropa.user.js
+// @downloadURL  https://raw.githubusercontent.com/nowe-konto/PlaceEuropa/main/src/PlaceEuropa.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
