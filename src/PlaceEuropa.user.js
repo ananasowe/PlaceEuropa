@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/PlaceEuropa overlay
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Cover the canvas with the old continent!
 // @author       Ananas (original code from other subreddits, modified)
 // @match        https://hot-potato.reddit.com/embed*
