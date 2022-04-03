@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         r/PlaceEuropa overlay
 // @namespace    http://tampermonkey.net/
-// @version      1.1
-// @description  Cover the canvas with the old continent!
+// @version      1.2
+// @description  r/PlaceEuropa + r/PlaceEU joined effort to create a map of Europe!
 // @author       Ananas (original code from other subreddits, modified)
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://raw.githubusercontent.com/nowe-konto/PlaceEuropa/main/resources/logo.png
